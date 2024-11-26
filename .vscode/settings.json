@@ -1,0 +1,13 @@
+{
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+    },
+    "isort.args": ["--profile", "black"],
+    "python.linting.mypyEnabled": true,
+    "autoDocstring.docstringFormat": "numpy",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "editor.defaultFormatter": "ms-python.flake8",
+    "window.zoomLevel": 0
+}
