@@ -9,5 +9,7 @@
     "autoDocstring.docstringFormat": "numpy",
     "terminal.integrated.enableMultiLinePasteWarning": false,
     "editor.defaultFormatter": "ms-python.flake8",
-    "window.zoomLevel": 0
+    "flake8.args": [
+    "--max-line-length=150"
+ ]
 }
